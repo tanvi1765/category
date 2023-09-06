@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "body-parser": "^1.20.2",
+    "cron": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "install": "^0.13.0",
+    "joi": "^17.10.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.5.0",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.0.1",
+    "pick": "^0.0.1",
+    "yarn": "^1.22.19"
+  },
+  "name": "category",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
